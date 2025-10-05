@@ -1,2 +1,2 @@
 # Lib_Binary
-Binary file for C++ libraries
+Binary files for C++ libraries
